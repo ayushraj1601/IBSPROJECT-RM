@@ -16,6 +16,8 @@ import com.cg.ibs.rm.service.Bank_AdminService;
 
 public class AdminController {
 
+	
+	
 	@Autowired
 	private Bank_AdminService service;
 	
